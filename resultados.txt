@@ -1,0 +1,3 @@
+Color: #ccccee
+Color: #fff0f0
+Color: #aaaaaa
