@@ -1,0 +1,5 @@
+Circulo{tipoFigura='rectangulo', dimensionA='10', dimensionB='10', dimensionC='480', dimensionD='480', color='#ccccee'}
+Circulo{tipoFigura='rectangulo', dimensionA='15', dimensionB='15', dimensionC='350', dimensionD='350', color='#fff0f0'}
+Circulo{tipoFigura='circulo', dimensionA='250', dimensionB='250', dimensionC='100', color='#aaaaaa'}
+Circulo{tipoFigura='cuadrado', dimensionA='300', dimensionB='300', color='#000000'}
+Figura no valida
